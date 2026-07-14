@@ -7,7 +7,7 @@ only Python's standard library, once using Pandas — to compare a manual,
 first-principles approach against a library-driven one.
 
 ## Dataset
-Source: [2024 Facebook Political Ads (Google Drive)](https://drive.google.com/drive/folders/1e9FnDRyA-MWt_wLQHCctS5Dw60iC87oW?usp=sharing)
+Source: [2024 Facebook Political Ads (Google Drive)]([https://drive.google.com/drive/folders/1e9FnDRyA-MWt_wLQHCctS5Dw60iC87oW?usp=sharing](https://drive.google.com/file/d/1gvtvX8fATFrrzraPmTSf205U8u3JExUR/view?usp=sharing))
 
 Download `fb_ads_president_scored_anon.csv` and place it in the project root
 (or update `CSV_PATH` in both scripts). The dataset is **not** included in
